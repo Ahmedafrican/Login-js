@@ -1,0 +1,52 @@
+/* start of global property */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* color:white; */
+}
+
+a{
+    cursor: pointer;
+}
+
+/* end of global property */
+body{
+    background-color: #24353f;
+}
+
+.navbar .container h2{
+    color:white;
+} 
+
+.welcome{
+    width: 70%;
+    margin: 200px auto;
+    box-shadow: 20px 20px 20px 20px black;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome h1{
+    color: skyblue;
+}
+
+/* start of special case */
+body{
+    height: 2000px;
+}
+.navbar{
+    position:fixed;
+    left:0;
+    top:0;
+    right:0;
+    transition: all 1s;
+}
+
+.navbar:hover{
+    background-color: red;
+}
+/* end of special case */

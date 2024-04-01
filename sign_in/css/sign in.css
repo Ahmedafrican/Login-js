@@ -1,0 +1,53 @@
+/* start of global property */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* color:white; */
+}
+
+a{
+    cursor: pointer;
+}
+
+/* end of global property */
+body{
+    background-color: #24353f;
+}
+
+.login{
+    width: 70%;
+    margin: 100px auto;
+    box-shadow: 20px 20px 20px 20px black;
+}
+
+.signup{
+    display: none;
+}
+
+.login h1{
+    margin: auto;
+    text-align: center;
+    color: #17a2b8;
+}
+
+.login .form-control{
+    background-color: #24353f;
+    color:white;
+}
+
+.form-control::placeholder{
+    color: grey;
+  }
+
+.login .btn{
+    display: block;
+    width: fit-content;
+    margin: auto;
+}
+.login p{
+text-align: center;
+color: white;
+}
+
