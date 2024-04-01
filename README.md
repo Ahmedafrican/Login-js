@@ -20,7 +20,7 @@ This project implements a Smart Login System consisting of sign-in, sign-up, and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/smart-login-system.git
+   git clone https://github.com/Ahmedafrican/Login-js.git
 
 ## Usage
 
@@ -42,4 +42,4 @@ This project implements a Smart Login System consisting of sign-in, sign-up, and
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](http://127.0.0.1:5501/sign_up/index.html) file for details.
